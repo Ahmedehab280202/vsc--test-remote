@@ -11,6 +11,7 @@ public class DemoApplication {
         System.out.println("Second Commit");
         System.out.println("Third Commit");
         System.out.println("Branch1 Commit");
+        System.out.println("Branch1 Commit2");
     }
 
 }
